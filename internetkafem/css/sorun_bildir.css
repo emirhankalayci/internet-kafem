@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap&subset=latin-ext');
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-color: #EEE;
+	font-family: Helvetica, Arial, sans-serif;
+	background-image: url("../images/internet_cafe.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#space {
+	height: 120px;
+}
+#container{
+	width: 450px;
+	height: 320px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: 000000;
+}
+
+#header{
+	width: 450px;
+	height: 60px;
+	color: white;
+	text-align: center;
+	background-color: #0043e0;
+	font-family: 'Raleway', sans-serif;
+	line-height: 60px;
+	
+}
+
+button {
+	display: inline;
+	background: #01A4E0;
+	color: #2184AC;
+	border: 0;
+	padding: 4px;
+}
+
+input {
+    display: block;
+    width: 420;
+	height: 30; 
+    margin-top: 1.0em;
+	padding: 4px;
+	font-family: 'Raleway', sans-serif;
+}
+
+small {
+	display: inline-block;
+	margin-top: 5px;
+	color: white;
+	font-size: 100%;
+	color: #fff;
+}
+
+#btn-send {
+	display: block;
+	width: 420;
+	height: 40px;
+	margin-top: 2.0em;
+	border-radius: 4px;
+	background-color: #3366cc;
+	color: #fff;
+	font-family: 'Raleway', sans-serif;
+}
+.aciklama{
+	display: block;
+    width: 420;
+	height: 120; 
+    margin-top: 1.0em;
+	padding: 4px;
+	font-family: 'Raleway', sans-serif;
+	
+}
+
+.aciklama placeholder{
+	margin-top: 0px;
+	
+}
+
+
+
+
+
+
+
+
+
+
